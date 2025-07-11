@@ -18,13 +18,13 @@ It uses an XGBoost Classifier trained on real loan data, deployed with Streamlit
  📂 Project Structure
 
 loan_approval_project/
-│
-├── Loan_Approval_Prediction.ipynb # Jupyter notebook: data analysis + training
-├── streamlit_app.py # Streamlit app script
-├── xgb_loan_model.pkl # Saved XGBoost model
-├── loan_approval_dataset.csv # Training dataset
-└── README.md # Project documentation
- Tech Stack-:
+Loan_Approval_Prediction.ipynb # Jupyter notebook: data analysis + training
+streamlit_app.py # Streamlit app script
+xgb_loan_model.pkl # Saved XGBoost model
+loan_approval_dataset.csv # Training dataset
+ README.md # Project documentation
+ 
+Tech Stack-:
 Python
 Pandas, 
 Scikit-learn
